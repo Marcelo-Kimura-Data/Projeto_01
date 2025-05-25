@@ -27,5 +27,53 @@ Como iremos precisar criar uma OnePage para cada uma das lojas e enviar, iremos 
 
 Para isso primeiro iremos executar um `merge` entre a tabela Vendas e a tabela Lojas, e depois iremos usar um laço for para poder criar as respectivas tabelas.
 
+Após o `merge`, criamos um laço `for` para criar um dicionário onde a chave corresponderia ao nome da loja e o valor é o DataFrame correspondente a essa loja.
+
+## Passo 03: Definição do período
+
+Aqui apenas determinamos o período em que iremos estar realizando as comparações.
+
+## Passo 04: Salvando os arquivos na pasta Backup
+
+Nessa etapa importamos a biblioteca `Pathlib` para conseguir realizar as manipulações dos arquivos dentro da nossa máquina.
+
+Em seguida nós criamos o caminho para onde os arquivos irão.
+
+Criamos uma lista que irá interagir com os arquivos presentes dentro da pasta de backup e depois aplicamos o la
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

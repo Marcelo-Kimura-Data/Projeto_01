@@ -39,7 +39,9 @@ Nessa etapa importamos a biblioteca `Pathlib` para conseguir realizar as manipul
 
 Em seguida nós criamos o caminho para onde os arquivos irão.
 
-Criamos uma lista que irá interagir com os arquivos presentes dentro da pasta de backup e depois aplicamos o la
+Criamos uma lista que irá interagir com os arquivos presentes dentro da pasta de backup e depois aplicamos o laço for para criar as pastas (se não existir) e salvar os arquivos dentro delas. Nesse processo, criamos também o nome para os respectivos arquivos.
+
+
 
 
 

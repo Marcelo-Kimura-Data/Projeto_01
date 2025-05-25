@@ -14,9 +14,18 @@ Devemos criar um processo da forma mais automática possível para calcular o On
 
 Ex: O e-mail a ser enviado para o Gerente da Loja A deve ser como exemplo
 
-### Passo 01: Importação dos arquivos para o DataFrame
+## Passo 01: Importação dos arquivos para o DataFrame
 
 Iremos primeiramente realizar a importação dos arquivos para o formato de DataFrame (Pandas) para conseguir realizar as tratativas.
 
 Nesse ponto, iremos precisar importar a biblioteca `Pandas` e usar os métodos `read_excel` e `read_csv` para realizar a leitura dos arquivos.
+
+
+## Passo 02: Criando tabelas respectivas a cada loja
+
+Como iremos precisar criar uma OnePage para cada uma das lojas e enviar, iremos criar tabelas referente a cada uma das lojas.
+
+Para isso primeiro iremos executar um `merge` entre a tabela Vendas e a tabela Lojas, e depois iremos usar um laço for para poder criar as respectivas tabelas.
+
+
 

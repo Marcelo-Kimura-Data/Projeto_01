@@ -41,6 +41,11 @@ Em seguida nós criamos o caminho para onde os arquivos irão.
 
 Criamos uma lista que irá interagir com os arquivos presentes dentro da pasta de backup e depois aplicamos o laço for para criar as pastas (se não existir) e salvar os arquivos dentro delas. Nesse processo, criamos também o nome para os respectivos arquivos.
 
+## Passo 05: Desenvolvimento dos indicadores
+
+Aqui nós calculamos os indicadores das respectivas lojas para poder enviar para os gerentes. Calculamos o faturamento, quantidade de produtos vendidos e ticket médio, todos as métricas segmentadas por ano e dia.
+
+
 
 
 

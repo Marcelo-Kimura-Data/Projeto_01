@@ -45,6 +45,10 @@ Criamos uma lista que irá interagir com os arquivos presentes dentro da pasta d
 
 Aqui nós calculamos os indicadores das respectivas lojas para poder enviar para os gerentes. Calculamos o faturamento, quantidade de produtos vendidos e ticket médio, todos as métricas segmentadas por ano e dia.
 
+Inserimos também os valores das metas que a empresa precisa atingir.
+
+
+## Passo 06: Criação da estruturação do email
 
 
 
